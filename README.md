@@ -5,9 +5,11 @@ Cara request join sebagai member github KRSBI Beroda sangat mudah, hanya dengan 
 - Merupakan anggota Unit Kegiatan Mahasiswa Robotec
 - Masuk sebagai anggota divisi KRSBI Beroda
 # Form
-- Nama Lengkap : 
-- Alamat Email : 
-- NIM : 
-- Ket : `Request join github KRSBI Beroda`
+```
+Nama Lengkap : 
+Alamat Email : 
+NIM : 
+Ket : Request join github KRSBI Beroda
+```
 # CP Kadiv
 - aksamanika2017@gmail.com
